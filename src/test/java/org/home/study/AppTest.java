@@ -1,4 +1,4 @@
-package com.home.csp;
+package org.home.study;
 
 import static org.junit.Assert.assertTrue;
 
